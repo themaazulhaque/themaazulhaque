@@ -1,3 +1,13 @@
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="themaazulhaque's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+</p>
+
+---
+
 <div align="center">
 
 # Hi, I'm Mazul Haque
@@ -166,16 +176,12 @@ Code quality, testing practices, and development workflow
 
 ## GitHub Analytics
 
-<div align="center">
-<a href="https://github.com/themaazulhaque">
-<img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=themaazulhaque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=themaazulhaque&layout=compact&theme=tokyonight" />
-</a>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=themaazulhaque&theme=tokyonight" />
-</div>
+<table>
+<tr>
+<td align="center"><a href="https://github.com/themaazulhaque"><img width="410" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=themaazulhaque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /></a></td>
+<td align="center"><img width="350" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=themaazulhaque&layout=compact&theme=tokyonight" /></td>
+</tr>
+</table>
 
 ---
 
