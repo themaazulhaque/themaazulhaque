@@ -185,7 +185,7 @@ Code quality, testing practices, and development workflow
 
 ---
 
-## Contribution Snake Game
+## Contribution 
 
 <div align="center">
 
