@@ -167,36 +167,20 @@ Code quality, testing practices, and development workflow
 ## GitHub Analytics
 
 <div align="center">
-
 <a href="https://github.com/themaazulhaque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaazulhaque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaazulhaque&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=themaazulhaque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=themaazulhaque&layout=compact&theme=tokyonight" />
 </a>
+</div>
 
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=themaazulhaque&theme=tokyonight" />
 </div>
 
 ---
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themaazulhaque&theme=tokyonight)
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-![themaazulhaque's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=themaazulhaque&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-Thank you for visiting my profile.
+Thank you for visiting.
 
 </div>
