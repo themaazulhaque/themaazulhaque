@@ -12,7 +12,7 @@
 
 # Hi, I'm Mazul Haque
 
-### Full Stack Developer
+### Software Ebgineer
 
 Building modern web applications with a focus on clean architecture and scalable solutions.
 
